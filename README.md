@@ -1,2 +1,2 @@
-# atgcpp
-A C++ learning repository for computational biology
+# ATGC++
+A C++ learning repository for computational biology.
