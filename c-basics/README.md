@@ -52,3 +52,6 @@ A função printf do preprocessing stdio possui especificadores para injetar var
 | char | %c |
 | string | %s |
 
+## Operações e aritmética
+
+
